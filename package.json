@@ -1,0 +1,19 @@
+{
+  "name": "custom-dom-renderer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "babel-preset-solid": "1.5.2",
+    "solid-js": "1.5.1",
+    "vite": "3.0.9",
+    "vite-plugin-solid": "2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0"
+  },
+  "keywords": []
+}
